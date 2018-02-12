@@ -1,0 +1,52 @@
+#To add custom phenotype, type phenotypes in the Custom_Phenotype column and save as a tab separated variable file.			
+Strain	Genome_ID	ShortName	Digoxin_Reduction	Tetracycline_Resistance	Custom_Phenotype
+Adlercreutzia equolifaciens DSM 19450	Adlercreutzia_equolifaciens_DSM19450	Ae DSM 19450			
+Asaccharobacter celatus AP38TSA	Asaccharobacter_celatus_AP38TSA	Ac AP38TSA			
+Asaccharobacter celatus OB21 GAM 11	Asaccharobacter_celatus_OB21GAM11	Ac OB21 GAM 11			
+Atopobium rimae ATCC 49626	Atopobium_rimae_ATCC49626	Ar ATCC 49626			
+Collinsella aerofaciens ATCC 25986	Collinsella_aerofaciens_ATCC25986	Ca ATCC 25986			
+Coriobacterium glomerans PW2	Coriobacterium_glomerans_PW2	Cg PW2			
+Cryptobacterium curtum DSM 15641	Cryptobacterium_curtum_DSM15641	Cc DSM 15641			
+Denitrobacterium detoxificans DSM 21843	Denitrobacterium_detoxificans_DSM21843	Dd DSM 21843			
+Eggerthella lenta 11C	Eggerthella_lenta_11C	El 11C	Reduction	Resistant	
+Eggerthella lenta 14A	Eggerthella_lenta_14A	El 14A	No Reduction	Resistant	
+Eggerthella lenta 16A	Eggerthella_lenta_16A	El 16A			
+Eggerthella lenta 19C	Eggerthella_lenta_19C	El 19C			
+Eggerthella lenta 22C	Eggerthella_lenta_22C	El 22C	No Reduction	Resistant	
+Eggerthella lenta 28B	Eggerthella_lenta_28B	El 28B	No Reduction	Sensitive	
+Eggerthella lenta 32-6-I  6 NA	Eggerthella_lenta_326I6NA	El 32-6-I  6 NA	Reduction	Resistant	
+Eggerthella lenta A2	Eggerthella_lenta_A2	El A2		Resistant	
+Eggerthella lenta AB12 #2	Eggerthella_lenta_AB12n2	El AB12 #2	Reduction	Sensitive	
+Eggerthella lenta AB8 #2	Eggerthella_lenta_AB8n2	El AB8 #2	Reduction	Resistant	
+Eggerthella lenta AN51LG	Eggerthella_lenta_AN51LG	El AN51LG	No Reduction	Sensitive	
+Eggerthella lenta ATCC 25559	Eggerthella_lenta_ATCC25559	El ATCC 25559		Sensitive	
+Eggerthella lenta C592	Eggerthella_lenta_C592	El C592			
+Eggerthella lenta CC7/5 D5 2	Eggerthella_lenta_CC75D52	El CC7/5 D5 2		Sensitive	
+Eggerthella lenta CC8/2 BHI2	Eggerthella_lenta_CC82BHI2	El CC8/2 BHI2	No Reduction	Resistant	
+Eggerthella lenta CC8/6 D5 4 	Eggerthella_lenta_CC86D54	El CC8/6 D5 4 	Reduction	Resistant	
+Eggerthella lenta DSM 11767	Eggerthella_lenta_DSM11767	El DSM 11767	Reduction	Resistant	
+Eggerthella lenta DSM 11863	Eggerthella_lenta_DSM11863	El DSM 11863	Reduction	Resistant	
+Eggerthella lenta DSM 15644	Eggerthella_lenta_DSM15644	El DSM 15644	No Reduction	Resistant	
+Eggerthella lenta DSM 2243	Eggerthella_lenta_DSM2243REF	El DSM 2243	Reduction	Sensitive	
+Eggerthella lenta DSM 2243DSM	Eggerthella_lenta_DSM2243DSMZ	El DSM 2243D			
+Eggerthella lenta FAA1-1-60ABroad	Eggerthella_lenta_1160AFAABroad	El FAA1-1-60AB			
+Eggerthella lenta FAA1-1-60AUCSF	Eggerthella_lenta_1160AFAAUCSF	El FAA1-1-60AU	No Reduction	Resistant	
+Eggerthella lenta FAA1-3-56	Eggerthella_lenta_1356FAA	El FAA1-3-56	No Reduction	Resistant	
+Eggerthella lenta HGA1	Eggerthella_lenta_HGA1	El HGA1			
+Eggerthella lenta MR1 #12	Eggerthella_lenta_MR1n12	El MR1 #12	No Reduction	Sensitive	
+Eggerthella lenta RC4/6F	Eggerthella_lenta_RC46F	El RC4/6F		Sensitive	
+Eggerthella lenta UCSF 2243	Eggerthella_lenta_DSM2243UCSF	El UCSF 2243		Sensitive	
+Eggerthella lenta Valencia	Eggerthella_lenta_Valencia	El Valencia	No Reduction	Sensitive	
+Eggerthella lenta W1 BHI 6	Eggerthella_lenta_W1BHI6	El W1 BHI 6		Resistant	
+Eggerthella sinensis DSM 16107	Eggerthella_sinensis_DSM16107	Es DSM 16107	No Reduction	Sensitive	
+Eggerthella species YY7918	Eggerthella_species_YY7918	Es YY7918			
+Enterorhabdus mucosicola DSM 19490	Enterorhabdus_mucosicola_DSM19490	Em DSM 19490			
+Gordonibacter pamelaeae 3C	Gordonibacter_pamelaeae_3C	Gp 3C	No Reduction	Sensitive	
+Gordonibacter species 28C	Gordonibacter_species_28C	Gs 28C	No Reduction	Sensitive	
+Olsenella uli DSM 7084	Olsenella_uli_DSM7084	Ou DSM 7084			
+Paraeggerthella hongkongensis RC2/2 A	Paraeggerthella_hongkongensis_RC22A	Ph RC2/2 A	No Reduction	Sensitive	
+Parvibacter caecicola DSM22242	Parvibacter_caecicola_DSM22242	Pc DSM 22242			
+Senegalimassilia anaerobia AP69FAA	Senegalimassilia_anaerobia_AP69FAA	Sa AP69FAA			
+Senegalimassilia anaerobia JC110	Senegalimassilia_anaerobia_JC110	Sa JC110			
+Slackia heliotrinireducens DSM 20476	Slackia_heliotrinireducens_DSM20476	Sh DSM 20476			
+Slackia isoflavoniconvertens OB21 GAM31	Slackia_isoflavoniconvertens_OB21GAM31	Si OB21 GAM31			
