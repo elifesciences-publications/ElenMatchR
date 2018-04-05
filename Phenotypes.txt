@@ -1,4 +1,4 @@
-#To add custom phenotype, type phenotypes in the Custom_Phenotype column and save as a tab separated variable file.			
+#To add custom phenotype, type phenotypes in the Custom_Phenotype column and save as a tab separated variable file.				
 Strain	Genome_ID	ShortName	Digoxin_Reduction	Tetracycline_Resistance	Custom_Phenotype
 Adlercreutzia equolifaciens DSM 19450	Adlercreutzia_equolifaciens_DSM19450	Ae DSM 19450			
 Asaccharobacter celatus AP38TSA	Asaccharobacter_celatus_AP38TSA	Ac AP38TSA			
@@ -19,7 +19,7 @@ Eggerthella lenta A2	Eggerthella_lenta_A2	El A2		Resistant
 Eggerthella lenta AB12 #2	Eggerthella_lenta_AB12n2	El AB12 #2	Reduction	Sensitive	
 Eggerthella lenta AB8 #2	Eggerthella_lenta_AB8n2	El AB8 #2	Reduction	Resistant	
 Eggerthella lenta AN51LG	Eggerthella_lenta_AN51LG	El AN51LG	No Reduction	Sensitive	
-Eggerthella lenta ATCC 25559	Eggerthella_lenta_ATCC25559	El ATCC 25559		Sensitive	
+Eggerthella lenta ATCC 25559	Eggerthella_lenta_ATCC25559	El ATCC 25559			
 Eggerthella lenta C592	Eggerthella_lenta_C592	El C592			
 Eggerthella lenta CC7/5 D5 2	Eggerthella_lenta_CC75D52	El CC7/5 D5 2		Sensitive	
 Eggerthella lenta CC8/2 BHI2	Eggerthella_lenta_CC82BHI2	El CC8/2 BHI2	No Reduction	Resistant	
@@ -35,7 +35,7 @@ Eggerthella lenta FAA1-3-56	Eggerthella_lenta_1356FAA	El FAA1-3-56	No Reduction	
 Eggerthella lenta HGA1	Eggerthella_lenta_HGA1	El HGA1			
 Eggerthella lenta MR1 #12	Eggerthella_lenta_MR1n12	El MR1 #12	No Reduction	Sensitive	
 Eggerthella lenta RC4/6F	Eggerthella_lenta_RC46F	El RC4/6F		Sensitive	
-Eggerthella lenta UCSF 2243	Eggerthella_lenta_DSM2243UCSF	El UCSF 2243		Sensitive	
+Eggerthella lenta UCSF 2243	Eggerthella_lenta_DSM2243UCSF	El UCSF 2243			
 Eggerthella lenta Valencia	Eggerthella_lenta_Valencia	El Valencia	No Reduction	Sensitive	
 Eggerthella lenta W1 BHI 6	Eggerthella_lenta_W1BHI6	El W1 BHI 6		Resistant	
 Eggerthella sinensis DSM 16107	Eggerthella_sinensis_DSM16107	Es DSM 16107	No Reduction	Sensitive	

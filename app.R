@@ -1,4 +1,4 @@
-###ElenMatchR V0.3
+###ElenMatchR V0.4
 
 library(shiny)
 library(randomForest)
@@ -39,10 +39,10 @@ phenos<-read_tsv("Phenotypes.txt", skip=1)
 tree<-readRDS("resources/RDS/phylotree.RDS")
 
 # User interface ########## ########## ########## ########## ########## ########## ##########
-ui <- navbarPage(HTML("ElenMatchR: Comparative Genomics Tool v0.3"),
+ui <- navbarPage(HTML("ElenMatchR: Comparative Genomics Tool v0.4"),
                  tabPanel("Settings",
                           h1("Instructions"),
-                          p("Welcome to ElenMatchR v0.3. This tool is for the linking of phenotypes to genes in Corriobacteriia and specifically Eggerthella lenta. This tool is described in Bisanz et al., `Establishing a toolkit for genetics and ecology of the Coriobacteriia and Eggerthella lenta: prevalent symbionts of the gut microbiome` (check back soon for reference). To use your own data, upload a copy of the provided template after selecting Custom_Phenotype from the Phenotype dropdown box. Pick your desired clustering thresholds (decrease for comparisons between more distantly related Coriobacteriia) and random forest parameters. After clicking execute analysis, the remaining tabs will be populated with results. Please report any problems to Jordan.Bisanz@ucsf.edu."),
+                          p("Welcome to ElenMatchR v0.4. This tool is for the linking of phenotypes to genes in Corriobacteriia and specifically Eggerthella lenta. This tool is described in Bisanz et al., `Establishing a toolkit for genetics and ecology of the Coriobacteriia and Eggerthella lenta: prevalent symbionts of the gut microbiome` (check back soon for reference). To use your own data, upload a copy of the provided template after selecting Custom_Phenotype from the Phenotype dropdown box. Pick your desired clustering thresholds (decrease for comparisons between more distantly related Coriobacteriia) and random forest parameters. After clicking execute analysis, the remaining tabs will be populated with results. Please report any problems to Jordan.Bisanz@ucsf.edu."),
                           hr(),
                           h1("Phenotypes"),
                           selectInput("phenotype", "Phenotype:", selected="Digoxin_Reduction",
