@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Koppel et al., "Discovery and characterization of a prevalent human gut bacterial enzyme sufficient for the inactivation of a family of plant toxins". eLife, 2018. http://dx.doi.org/10.7554/eLife.33953
+
 # ElenMatchR
 ## version 0.3
 ***
